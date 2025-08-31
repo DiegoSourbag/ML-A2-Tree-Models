@@ -1,0 +1,15 @@
+name: ML_assignment_2
+channels:
+  - defaults
+  - https://conda.anaconda.org/conda-forge/
+dependencies:
+  - graphviz=2.50.0
+  - jupyter=1.0.0
+  - jupyterlab=4.0.11
+  - matplotlib=3.8.0
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - pygraphviz=1.9
+  - python=3.11.7
+  - scikit-learn=1.2.2
+
